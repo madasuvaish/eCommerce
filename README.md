@@ -69,8 +69,18 @@ To set up and run this project locally:
    pip install -r requirements.txt
 3. **Run the Scripts: Once the dependencies are installed, you can start running the scripts:**
 
--  **For Exploratory Data Analysis (EDA):**
-  ```bash
+- **For Exploratory Data Analysis (EDA):**
+
+To run the EDA scripts, execute the following commands:
+
+1. Run the EDA script:
+   ```bash
    python eda.py
-   python lookalike_model.py
+2. Run the Lookalike Model script:
+   ```bash
+   python lookalikemodel.py
+3. Run the Clustering script:
+   ```bash
    python clustering.py
+    
+
