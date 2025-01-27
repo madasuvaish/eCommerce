@@ -92,7 +92,7 @@ To run the EDA scripts, execute the following commands:
 **Lookalike Model:**
 - A CSV file (Lookalike.csv) containing customer IDs and their top 3 similar customers, along with the similarity scores.
   
-** Clustering:**
+**Clustering:**
 - Cluster visualization and analysis that groups customers into different segments, allowing insights into spending patterns and behaviors.
   
 ## Conclusion:
