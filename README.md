@@ -63,7 +63,7 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ecommerce-transactions-analysis.git
+   git clone https://github.com/your/ecommerce-transactions-analysis.git
    cd ecommerce-transactions-analysis
 pip install -r requirements.txt
 python eda.py
