@@ -1,6 +1,5 @@
-# Project Title
-
-**Project Name**: eCommerce Transactions Analysis
+## E-Commerce Transactions Analysis & Customer Insights
+**Project Name**: E-Commerce Transactions Analysis
 
 This repository contains a detailed analysis of an eCommerce transactions dataset, comprising customer, product, and transaction information. The project is divided into three key tasks: **Exploratory Data Analysis (EDA)**, **Lookalike Model**, and **Customer Segmentation using Clustering**. The objective is to derive actionable insights from the data, build a model that recommends similar customers, and segment customers based on their transaction patterns.
 
