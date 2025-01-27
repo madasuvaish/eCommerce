@@ -67,3 +67,8 @@ To set up and run this project locally:
 2. **Install Dependencies: Install the required libraries listed in the requirements.txt file using the following command**
    ```bash
    pip install -r requirements.txt
+3. **Run the Scripts: Once the dependencies are installed, you can start running the scripts:
+
+-  **For Exploratory Data Analysis (EDA):**
+  ```bash
+   python eda.py
