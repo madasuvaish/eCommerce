@@ -64,7 +64,6 @@ To set up and run this project locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/madasuvaish/eCommerce.git
-pip install -r requirements.txt
-python eda.py
-python lookalike_model.py
-python clustering.py
+2. **Install Dependencies: Install the required libraries listed in the requirements.txt file using the following command**
+   ```bash
+   pip install -r requirements.txt
