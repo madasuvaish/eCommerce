@@ -95,7 +95,7 @@ To run the EDA scripts, execute the following commands:
 **Clustering:**
 - Cluster visualization and analysis that groups customers into different segments, allowing insights into spending patterns and behaviors.
   
-## Conclusion:
+## Conclusion
 This project provides valuable insights into eCommerce transactions, helping businesses understand their customers better and optimize their marketing strategies. By identifying high-value customers, recommending similar customers, and segmenting them based on purchasing behavior, companies can tailor their products and marketing efforts to meet customer needs more effectively.
 
 The project also serves as a hands-on example of using machine learning techniques (such as clustering and similarity modeling) for business analytics.
