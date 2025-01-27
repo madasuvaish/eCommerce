@@ -63,7 +63,7 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone (https://github.com/madasuvaish/eCommerce.git)
+   git clone https://github.com/madasuvaish/eCommerce.git
 pip install -r requirements.txt
 python eda.py
 python lookalike_model.py
