@@ -72,3 +72,5 @@ To set up and run this project locally:
 -  **For Exploratory Data Analysis (EDA):**
   ```bash
    python eda.py
+   python lookalike_model.py
+   python clustering.py
